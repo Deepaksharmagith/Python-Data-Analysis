@@ -1,0 +1,3 @@
+Python is a powerful,versatile programming language
+ Used in data analysis, automation, machine learning
+ P.BI
